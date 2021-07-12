@@ -1,0 +1,1 @@
+[25-Apr-2021 06:38:08 UTC] PHP Fatal error:  Interface 'Symfony\Component\EventDispatcher\EventSubscriberInterface' not found in /home/vimi2/public_html/vendor/symfony/console/EventListener/ErrorListener.php on line 25

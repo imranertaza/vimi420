@@ -1,0 +1,4 @@
+[29-Apr-2021 05:53:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Application' not found in /home/vimi2/public_html/vendor/psy/psysh/src/Shell.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/psy/psysh/src/Shell.php on line 49

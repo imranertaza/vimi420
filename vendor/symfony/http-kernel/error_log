@@ -1,0 +1,1 @@
+[20-Apr-2021 18:23:20 UTC] PHP Fatal error:  Interface 'Symfony\Component\HttpKernel\KernelInterface' not found in /home/vimi2/public_html/vendor/symfony/http-kernel/Kernel.php on line 56

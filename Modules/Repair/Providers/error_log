@@ -1,0 +1,4 @@
+[24-Apr-2021 19:54:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/vimi2/public_html/Modules/Repair/Providers/RepairServiceProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Repair/Providers/RepairServiceProvider.php on line 12

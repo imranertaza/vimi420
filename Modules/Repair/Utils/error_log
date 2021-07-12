@@ -1,0 +1,4 @@
+[20-Apr-2021 20:37:39 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Utils\Util' not found in /home/vimi2/public_html/Modules/Repair/Utils/RepairUtil.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Repair/Utils/RepairUtil.php on line 20

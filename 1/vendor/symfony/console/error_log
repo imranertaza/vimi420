@@ -1,0 +1,5 @@
+[22-Apr-2021 17:43:28 UTC] PHP Fatal error:  Interface 'Symfony\Contracts\Service\ResetInterface' not found in /home/vimi2/public_html/vendor/symfony/console/Application.php on line 62
+[24-Apr-2021 20:13:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/vimi2/public_html/vendor/symfony/console/SingleCommandApplication.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/symfony/console/SingleCommandApplication.php on line 21

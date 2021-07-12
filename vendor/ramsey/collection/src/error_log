@@ -1,0 +1,23 @@
+[21-Apr-2021 16:02:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Ramsey\Collection\AbstractArray' not found in /home/vimi2/public_html/vendor/ramsey/collection/src/Queue.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/ramsey/collection/src/Queue.php on line 26
+[21-Apr-2021 16:06:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Ramsey\Collection\AbstractCollection' not found in /home/vimi2/public_html/vendor/ramsey/collection/src/Collection.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/ramsey/collection/src/Collection.php on line 73
+[21-Apr-2021 16:12:08 UTC] PHP Fatal error:  Interface 'Ramsey\Collection\ArrayInterface' not found in /home/vimi2/public_html/vendor/ramsey/collection/src/QueueInterface.php on line 96
+[21-Apr-2021 16:27:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Ramsey\Collection\Queue' not found in /home/vimi2/public_html/vendor/ramsey/collection/src/DoubleEndedQueue.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/ramsey/collection/src/DoubleEndedQueue.php on line 24
+[22-Apr-2021 00:21:56 UTC] PHP Fatal error:  Interface 'Ramsey\Collection\ArrayInterface' not found in /home/vimi2/public_html/vendor/ramsey/collection/src/CollectionInterface.php on line 23
+[22-Apr-2021 08:24:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Ramsey\Collection\AbstractArray' not found in /home/vimi2/public_html/vendor/ramsey/collection/src/AbstractCollection.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/ramsey/collection/src/AbstractCollection.php on line 44
+[23-Apr-2021 16:36:12 UTC] PHP Fatal error:  Interface 'Ramsey\Collection\QueueInterface' not found in /home/vimi2/public_html/vendor/ramsey/collection/src/DoubleEndedQueueInterface.php on line 162
+[24-Apr-2021 19:25:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Ramsey\Collection\AbstractSet' not found in /home/vimi2/public_html/vendor/ramsey/collection/src/Set.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/ramsey/collection/src/Set.php on line 38

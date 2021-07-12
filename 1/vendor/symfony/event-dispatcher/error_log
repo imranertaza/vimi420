@@ -1,0 +1,10 @@
+[23-Apr-2021 21:39:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Contracts\EventDispatcher\Event' not found in /home/vimi2/public_html/vendor/symfony/event-dispatcher/GenericEvent.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/symfony/event-dispatcher/GenericEvent.php on line 23
+[23-Apr-2021 22:07:33 UTC] PHP Fatal error:  Interface 'Symfony\Component\EventDispatcher\EventDispatcherInterface' not found in /home/vimi2/public_html/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php on line 19
+[24-Apr-2021 03:38:53 UTC] PHP Fatal error:  Interface 'Symfony\Contracts\EventDispatcher\EventDispatcherInterface' not found in /home/vimi2/public_html/vendor/symfony/event-dispatcher/EventDispatcherInterface.php on line 23
+[24-Apr-2021 03:57:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\EventDispatcher\trigger_deprecation() in /home/vimi2/public_html/vendor/symfony/event-dispatcher/LegacyEventDispatcherProxy.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/symfony/event-dispatcher/LegacyEventDispatcherProxy.php on line 16

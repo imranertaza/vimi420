@@ -1,0 +1,76 @@
+[23-Apr-2021 09:58:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/vimi2/public_html/vendor/psy/psysh/src/Command/Command.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/psy/psysh/src/Command/Command.php on line 25
+[25-Apr-2021 04:35:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/vimi2/public_html/vendor/psy/psysh/src/Command/WhereamiCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/psy/psysh/src/Command/WhereamiCommand.php on line 24
+[25-Apr-2021 08:31:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/vimi2/public_html/vendor/psy/psysh/src/Command/ListCommand.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/psy/psysh/src/Command/ListCommand.php on line 37
+[25-Apr-2021 10:34:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/vimi2/public_html/vendor/psy/psysh/src/Command/ParseCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/psy/psysh/src/Command/ParseCommand.php on line 30
+[25-Apr-2021 16:25:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/vimi2/public_html/vendor/psy/psysh/src/Command/SudoCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/psy/psysh/src/Command/SudoCommand.php on line 26
+[25-Apr-2021 16:53:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/vimi2/public_html/vendor/psy/psysh/src/Command/HelpCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/psy/psysh/src/Command/HelpCommand.php on line 25
+[25-Apr-2021 17:12:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/vimi2/public_html/vendor/psy/psysh/src/Command/DocCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/psy/psysh/src/Command/DocCommand.php on line 27
+[25-Apr-2021 17:41:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/vimi2/public_html/vendor/psy/psysh/src/Command/ThrowUpCommand.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/psy/psysh/src/Command/ThrowUpCommand.php on line 33
+[25-Apr-2021 18:18:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/vimi2/public_html/vendor/psy/psysh/src/Command/TimeitCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/psy/psysh/src/Command/TimeitCommand.php on line 26
+[25-Apr-2021 18:28:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/vimi2/public_html/vendor/psy/psysh/src/Command/DumpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/psy/psysh/src/Command/DumpCommand.php on line 26
+[25-Apr-2021 22:53:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/vimi2/public_html/vendor/psy/psysh/src/Command/TraceCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/psy/psysh/src/Command/TraceCommand.php on line 24
+[25-Apr-2021 23:31:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/vimi2/public_html/vendor/psy/psysh/src/Command/BufferCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/psy/psysh/src/Command/BufferCommand.php on line 24
+[26-Apr-2021 02:21:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/vimi2/public_html/vendor/psy/psysh/src/Command/PsyVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/psy/psysh/src/Command/PsyVersionCommand.php on line 20
+[26-Apr-2021 04:05:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\ReflectingCommand' not found in /home/vimi2/public_html/vendor/psy/psysh/src/Command/ShowCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/psy/psysh/src/Command/ShowCommand.php on line 27
+[27-Apr-2021 02:33:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/vimi2/public_html/vendor/psy/psysh/src/Command/ExitCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/psy/psysh/src/Command/ExitCommand.php on line 23
+[27-Apr-2021 03:58:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/vimi2/public_html/vendor/psy/psysh/src/Command/ReflectingCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/psy/psysh/src/Command/ReflectingCommand.php on line 27
+[28-Apr-2021 00:29:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/vimi2/public_html/vendor/psy/psysh/src/Command/HistoryCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/psy/psysh/src/Command/HistoryCommand.php on line 27
+[28-Apr-2021 03:09:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/vimi2/public_html/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[28-Apr-2021 08:41:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Psy\Command\Command' not found in /home/vimi2/public_html/vendor/psy/psysh/src/Command/EditCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/psy/psysh/src/Command/EditCommand.php on line 21

@@ -1,0 +1,4 @@
+[28-Apr-2021 13:56:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Process' not found in /home/vimi2/public_html/vendor/symfony/process/PhpProcess.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/symfony/process/PhpProcess.php on line 26

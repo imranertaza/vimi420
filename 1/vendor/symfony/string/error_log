@@ -1,0 +1,1 @@
+[27-Apr-2021 09:58:03 UTC] PHP Fatal error:  Interface 'Stringable' not found in /home/vimi2/public_html/vendor/symfony/string/AbstractString.php on line 30

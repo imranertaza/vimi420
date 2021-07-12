@@ -1,0 +1,1 @@
+[29-Apr-2021 01:27:58 UTC] PHP Fatal error:  Interface 'Symfony\Component\Mime\Encoder\EncoderInterface' not found in /home/vimi2/public_html/vendor/symfony/mime/Encoder/QpEncoder.php on line 19

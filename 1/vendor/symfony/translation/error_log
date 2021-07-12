@@ -1,0 +1,1 @@
+[28-Apr-2021 21:31:18 UTC] PHP Fatal error:  Interface 'Symfony\Contracts\Translation\TranslatorInterface' not found in /home/vimi2/public_html/vendor/symfony/translation/DataCollectorTranslator.php on line 22

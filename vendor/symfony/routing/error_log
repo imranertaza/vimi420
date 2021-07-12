@@ -1,0 +1,2 @@
+[27-Apr-2021 15:38:51 UTC] PHP Fatal error:  Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home/vimi2/public_html/vendor/symfony/routing/RouterInterface.php on line 24
+[28-Apr-2021 14:34:47 UTC] PHP Fatal error:  Interface 'Symfony\Component\Routing\RouterInterface' not found in /home/vimi2/public_html/vendor/symfony/routing/Router.php on line 38

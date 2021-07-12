@@ -1,0 +1,4 @@
+[24-Apr-2021 11:25:13 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/vimi2/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 31

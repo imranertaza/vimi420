@@ -1,0 +1,1 @@
+[29-Apr-2021 04:46:46 UTC] PHP Fatal error:  Interface 'Symfony\Component\Mime\Exception\ExceptionInterface' not found in /home/vimi2/public_html/vendor/symfony/mime/Exception/RuntimeException.php on line 17

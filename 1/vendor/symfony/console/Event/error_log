@@ -1,0 +1,4 @@
+[23-Apr-2021 08:42:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Contracts\EventDispatcher\Event' not found in /home/vimi2/public_html/vendor/symfony/console/Event/ConsoleEvent.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/symfony/console/Event/ConsoleEvent.php on line 24

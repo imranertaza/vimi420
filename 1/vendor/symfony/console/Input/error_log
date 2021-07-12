@@ -1,0 +1,9 @@
+[23-Apr-2021 07:36:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Input\Input' not found in /home/vimi2/public_html/vendor/symfony/console/Input/ArrayInput.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/symfony/console/Input/ArrayInput.php on line 26
+[24-Apr-2021 04:45:09 UTC] PHP Fatal error:  Interface 'Symfony\Component\Console\Input\InputInterface' not found in /home/vimi2/public_html/vendor/symfony/console/Input/Input.php on line 28
+[24-Apr-2021 07:26:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Input\ArgvInput' not found in /home/vimi2/public_html/vendor/symfony/console/Input/StringInput.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/symfony/console/Input/StringInput.php on line 25

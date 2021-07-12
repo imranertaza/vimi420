@@ -1,0 +1,1 @@
+[22-Apr-2021 17:34:00 UTC] PHP Fatal error:  Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/vimi2/public_html/vendor/symfony/event-dispatcher/DependencyInjection/AddEventAliasesPass.php on line 22

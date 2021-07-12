@@ -1,0 +1,11 @@
+[26-Apr-2021 08:02:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Mime\Message' not found in /home/vimi2/public_html/vendor/symfony/mime/Email.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/symfony/mime/Email.php on line 25
+[26-Apr-2021 10:52:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Mime\RawMessage' not found in /home/vimi2/public_html/vendor/symfony/mime/Message.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/vendor/symfony/mime/Message.php on line 22
+[26-Apr-2021 13:14:40 UTC] PHP Fatal error:  Interface 'Symfony\Component\Mime\MimeTypesInterface' not found in /home/vimi2/public_html/vendor/symfony/mime/MimeTypes.php on line 37
+[27-Apr-2021 07:26:35 UTC] PHP Fatal error:  Interface 'Symfony\Component\Mime\MimeTypeGuesserInterface' not found in /home/vimi2/public_html/vendor/symfony/mime/MimeTypesInterface.php on line 17
+[28-Apr-2021 21:59:42 UTC] PHP Fatal error:  Interface 'Symfony\Component\Mime\MimeTypeGuesserInterface' not found in /home/vimi2/public_html/vendor/symfony/mime/FileBinaryMimeTypeGuesser.php on line 22

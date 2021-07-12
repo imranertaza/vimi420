@@ -1,0 +1,8 @@
+[20-Apr-2021 22:50:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/Repair/Entities/JobSheet.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Repair/Entities/JobSheet.php on line 7
+[22-Apr-2021 20:05:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/vimi2/public_html/Modules/Repair/Entities/DeviceModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/vimi2/public_html/Modules/Repair/Entities/DeviceModel.php on line 7
